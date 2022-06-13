@@ -1,7 +1,9 @@
 # backFarma
 ###  Gerenciador de Clientes 
 
-Você pode encontrar o código do aplicativo front-end em [FrontFarma](https://github.com/ramirovictor/frontFarma)
+Você pode encontrar o código do aplicativo front-end em [FrontFarma](https://github.com/ramirovictor/farma)
+
+# O projeto está configurado para rodar com o banco de dados PostgreSQL, mas existem um perfil para rodar no MySQl (application.dev.properties) e outro para o h2(application-test.properties).
 
 #### code in portuguese
 
@@ -9,16 +11,12 @@ Você pode encontrar o código do aplicativo front-end em [FrontFarma](https://g
 <table>
   <tr> 
     <td>Java</td>
-    <td>Dependências</td>
-    <td>PostgreSQL</td>
-    <td>Eclpse</td>
-    <td>Windows</td>
+    <td>SpringBoot</td>
+    <td>Angular</td>
   </tr>
   <tr> 
-    <td>1.8</td>
-    <td>consultar pom.xml</td>
-    <td>9.5*</td>
-    <td>*</td>
-    <td>*</td>
+    <td>11</td>
+     <td>2.7</td>
+     <td>14</td>
   </tr>
 </table>
