@@ -1,7 +1,7 @@
 # backFarma
 ###  Gerenciador de Clientes 
 
-Você pode encontrar o código do aplicativo front-end em [TodoFront](https://github.com/ramirovictor/frontFarma)
+Você pode encontrar o código do aplicativo front-end em [FrontFarma](https://github.com/ramirovictor/frontFarma)
 
 #### code in portuguese
 
