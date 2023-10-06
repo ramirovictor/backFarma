@@ -1,22 +1,13 @@
-# backFarma
-###  Gerenciador de Clientes 
+# backFarma 🚀
+### Gerenciador de Clientes
 
-Você pode encontrar o código do aplicativo front-end em [FrontFarma](https://github.com/ramirovictor/farma)
+Você pode encontrar o código do aplicativo front-end [aqui](https://github.com/ramirovictor/farma).
 
-O projeto está configurado para rodar com o banco de dados PostgreSQL, mas existem um perfil para rodar no MySQl (application.dev.properties) e outro para o h2(application-test.properties).
+O projeto está configurado para rodar com o banco de dados PostgreSQL, mas existe um perfil para rodar no MySQL (`application.dev.properties`) e outro para o h2 (`application-test.properties`).
 
-#### code in portuguese
+_Note: Code is in Portuguese._
 
-## Tecnologias
-<table>
-  <tr> 
-    <td>Java</td>
-    <td>SpringBoot</td>
-    <td>Angular</td>
-  </tr>
-  <tr> 
-    <td>11</td>
-     <td>2.7</td>
-     <td>14</td>
-  </tr>
-</table>
+## 🛠️ Tecnologias
+- **Java:** 11
+- **Framework:** SpringBoot 2.7
+- **Front-end:** Angular 14
